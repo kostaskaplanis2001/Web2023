@@ -1,7 +1,7 @@
 import cx from 'classnames';
 import styles from '../styles/Signin.module.css'
 
-export default Signin;
+
 
 function Signin() {
   return (
@@ -32,3 +32,4 @@ function Signin() {
     </>
   )
 }
+export default Signin;
